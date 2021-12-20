@@ -25,4 +25,14 @@ Use unsupervised machine learning techniques to analyze cryptocurrency data.
 
 **3D Scatter plot:**
 
-![3D_scatter_plot](https://github.com/Sheetaltkr/Cryptocurrencies/tree/main/Resources/3D_scatter_plot.png)
+![3D_scatter_plot](https://github.com/Sheetaltkr/Cryptocurrencies/blob/main/Resources/3D_scatter_plot.png)
+
+
+**Hvplot Table:**
+![Hvplot_table](https://github.com/Sheetaltkr/Cryptocurrencies/blob/main/Resources/Hvplot_table.png)
+
+
+**2D Scatter plot:**
+
+![2D_scatter_plot](https://github.com/Sheetaltkr/Cryptocurrencies/blob/main/Resources/2D_scatter_plot.png)
+
